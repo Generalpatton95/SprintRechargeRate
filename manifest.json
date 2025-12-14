@@ -2,7 +2,7 @@
     "name": "SprintRechargeRate",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Generalpatton95/SprintRechargeRate.git",
-    "description": "Increased sprint recharge rate by and amount for faster stamina recovery",
+    "description": "Increased sprint recharge rate and amount for faster stamina recovery",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
